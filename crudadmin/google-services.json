@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "404598129266",
+    "project_id": "truecaller-v1",
+    "storage_bucket": "truecaller-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404598129266:android:4749d010377043784078eb",
+        "android_client_info": {
+          "package_name": "com.creativeinstitute.crudadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD13FGuc3YBHIYEsijxXRWst63_Eo2Dmxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
